@@ -66,6 +66,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -127,5 +129,9 @@
 }
 .paragraph {
   text-align:left;
+}
+.box_11 {
+}
+.box_21 {
 }
 textarea, select, input, button { outline: none; }
