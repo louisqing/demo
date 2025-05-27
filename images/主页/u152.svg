@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="92px" height="86px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip36">
+      <path d="M 325 367  C 320.56 367  317 363.44  317 359  L 317 289  C 317 284.56  320.56 281  325 281  L 401 281  C 405.44 281  409 284.56  409 289  L 409 359  C 409 363.44  405.44 367  401 367  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -317 -281 )">
+    <path d="M 317 281  L 409 281  L 409 367  L 317 367  L 317 281  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip36)" />
+    <path d="M 323 287  L 403 287  L 403 361  L 323 361  L 323 287  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip36)" />
+    <path d="M 371.29 306.8  C 367.678 306.8  364.84 303.962  364.84 300.35  C 364.84 296.738  367.678 293.9  371.29 293.9  C 374.902 293.9  377.74 296.738  377.74 300.35  C 377.74 303.962  374.902 306.8  371.29 306.8  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip36)" />
+    <path d="M 325 359  L 325 320.5  L 344 303  L 370.6 319.739130434783  L 385.8 313.5  L 401 319.739130434783  L 401 359  L 325 359  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip36)" />
+  </g>
+</svg>
