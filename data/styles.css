@@ -118,6 +118,8 @@
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 .table_cell {
 }
 .droplist {
@@ -130,6 +132,13 @@
 .shape1 {
 }
 .paragraph {
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
   text-align:left;
 }
 .box_11 {
